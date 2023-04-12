@@ -23,7 +23,7 @@ Output: [0,1]
 
 // https://leetcode.com/problems/two-sum/
 
-
+package array.easy;
 import java.util.*;
 
 class Solution {
